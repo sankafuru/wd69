@@ -2,7 +2,7 @@
 
 特設サイトはこちら
 
-  [http://hirocaster.github.com/wdpress69/](http://hirocaster.github.com/wdpress69/)
+  [http://sankafuru.github.io/wd69/](http://sankafuru.github.io/wd69/)
 
 Pull Requestをマージする人へ
 
